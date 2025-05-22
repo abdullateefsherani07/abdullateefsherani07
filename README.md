@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/reddit-000000?style=flat&logo=Reddit&logoColor=%232AA889)](https://reddit.com/user/OverAndOutNerd)
-[![X](https://img.shields.io/badge/x-000000?style=flat&logo=x&logoColor=%232AA889)](https://x.com/Tech_Abdul_) 
+[![Reddit](https://img.shields.io/badge/Reddit-000000?style=flat&logo=Reddit&logoColor=%232AA889)](https://reddit.com/user/OverAndOutNerd)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=%232AA889)](https://x.com/Tech_Abdul_) 
 [![email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=%232AA889)](mailto:abduldeveloper30@gmail.com)
 
 ## 📊 GitHub Stats
