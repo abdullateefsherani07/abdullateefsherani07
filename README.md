@@ -37,7 +37,7 @@
 
 ### 🎬 Fun Facts
 
-- 🏏 Love watching **cricket**, movies, and Netflix shows.
+- 🏏 Love reading, listening to music, watching movies, and shows.
 - 💻 Coding is my favorite way to spend time and challenge myself.
 
 ---
