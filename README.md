@@ -46,11 +46,11 @@
   <b>Let’s build something awesome together!</b>
 </p>
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-000000?style=flat&logo=Reddit&logoColor=%232AA889)](https://reddit.com/user/OverAndOutNerd)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=%232AA889)](https://x.com/Tech_Abdul_) 
 [![email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=%232AA889)](mailto:abduldeveloper30@gmail.com)
-
+-->
 ## 📊 GitHub Stats
 ![Al's GitHub stats](https://github-readme-stats-self-phi.vercel.app/api?username=abdullateefsherani07&custom_title=Abdul's%20Github%20Stats&show_icons=true&theme=gotham&rank_icon=github)
 
