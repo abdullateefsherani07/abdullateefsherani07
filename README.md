@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#27ae60;">Hi there 👋, I'm al</h1>
+<h1 align="center" style="color:#27ae60;">Hi there 👋, I'm Al</h1>
 <h3 align="center" style="color:#27ae60;">Aspiring Android Developer | Kotlin Enthusiast</h3>
 
 ---
@@ -52,7 +52,7 @@
 [![email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=%232AA889)](mailto:abduldeveloper30@gmail.com)
 
 ## 📊 GitHub Stats
-![al's GitHub stats](https://github-readme-stats-self-phi.vercel.app/api?username=abdullateefsherani07&custom_title=Abdul's%20Github%20Stats&show_icons=true&theme=gotham&rank_icon=github)
+![Al's GitHub stats](https://github-readme-stats-self-phi.vercel.app/api?username=abdullateefsherani07&custom_title=Abdul's%20Github%20Stats&show_icons=true&theme=gotham&rank_icon=github)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=abdullateefsherani07&theme=gotham&hide_border=false)
 
